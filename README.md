@@ -4,7 +4,7 @@
 Created a system using Tweepy API and Textblob that will not require a dataset to perform sentiment analysis. With this system we will be able to draw a huge amount of tweets.
 
 ## About the System
-In this project, I tried to propose and learn about a system that perform sentiment analysis with a more easier approach that does not require to create a dataset beforehand. We will be using Twitter Developer with Tweepy API to access the tweets and use Textblob Library.
+In this project, I tried to propose and learn about a system that perform sentiment analysis with a more easier approach that does not require to create a dataset beforehand. I have used Twitter Developer with Tweepy API to access the tweets and use Textblob Library.
 
 ## ARCHITECTURE
 - Twitter Database
