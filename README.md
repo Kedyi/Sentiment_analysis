@@ -22,7 +22,7 @@ Through twitter database we will be able to access the tweets being made.
 Python Library which gives a convenient way to access Twitter API with its own set of classes and methods.
 
 ### SENTIMENT ANALYZER:
-Performs sentiment analysis on filtered tweets.
+Performs sentiment analysis on the filtered tweets.
 
 ## REQUIREMENTS
 - Python3
