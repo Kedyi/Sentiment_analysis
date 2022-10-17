@@ -31,7 +31,7 @@ Performs sentiment analysis on the filtered tweets.
 - Twitter Developer Access
 - Textblob
 
-## MODULE
+## MODULES
 - Streaming the tweets
 - Accessing the tweets
 - Analyzing the tweets
@@ -39,7 +39,7 @@ Performs sentiment analysis on the filtered tweets.
 - Sentiment analysis
 
 ## RESULT
-I was successfully able to stream, analyze, visualize the data. After completing the aforementioned steps I was
+Was successfully able to stream, analyze, visualize the data. After completing the aforementioned steps I was
 able to perform sentiment analysis successfully.
 
 ### References:
