@@ -1,4 +1,6 @@
-# Sentiment_analysis
+# Sentiment_analysis: 
+### Sentiment analysis is a field of research born in Natural Language Processing (NLP), aiming at detecting subjectivity in text and/or extracting and classifying opinions and sentiments. 
+
 ![image](https://user-images.githubusercontent.com/93571457/196149867-63986c1c-9f25-4640-a470-a3721d554301.png)
 
 ## OBJECTIVE
@@ -40,5 +42,8 @@ Performs sentiment analysis on filtered tweets.
 I was successfully able to stream, analyze, visualize the data. After completing the aforementioned steps I was
 able to perform sentiment analysis successfully.
 
-
+### References:
+- http://www.ijcaonline.org/research/volume125/number3/dandrea-2015-ijca-905866.pdf
+- https://textblob.readthedocs.io/en/dev/quickstart.html#sentiment-analysis
+- https://textblob.readthedocs.io/en/dev/_modules/textblob/en/sentiments.html
 
