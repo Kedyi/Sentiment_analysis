@@ -1,4 +1,5 @@
 # Sentiment_analysis
+![image](https://user-images.githubusercontent.com/93571457/196149867-63986c1c-9f25-4640-a470-a3721d554301.png)
 
 ## OBJECTIVE
 Create a system using Tweepy API and Textblob that will not require a dataset to perform sentiment analysis. With this system we will be able to draw a huge amount of tweets and parse it using python.
