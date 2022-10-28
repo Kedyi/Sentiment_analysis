@@ -38,6 +38,13 @@ Performs sentiment analysis on the filtered tweets.
 - Visualizing the tweets
 - Sentiment analysis
 
+![ploy (1)](https://user-images.githubusercontent.com/93571457/198686002-2a80fe3b-2e15-4381-9932-2d252efb17e8.jpg)
+
+![percentage](https://user-images.githubusercontent.com/93571457/198686119-acf952a6-4772-4335-8e5c-462e2cff5d6c.jpg)
+
+![valuecount](https://user-images.githubusercontent.com/93571457/198686217-07d35fdf-0dc2-43a7-b4f6-14ae3045fa36.jpg)
+
+
 ## RESULT
 Was successfully able to stream, analyze, visualize the data. After completing the aforementioned steps I was
 able to perform sentiment analysis successfully.
